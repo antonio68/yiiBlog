@@ -1,6 +1,9 @@
 <?php
 
-$c = 'test';
+$c = function() {
+    return 'test';
+};
+
 class test {
     
 }
