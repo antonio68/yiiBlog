@@ -1,7 +1,7 @@
 <?php
 
-$a = 22;
-$b = 33;
-
-$c = $a + $b;
+$c = 'test';
+class test {
+    
+}
 echo $c;
